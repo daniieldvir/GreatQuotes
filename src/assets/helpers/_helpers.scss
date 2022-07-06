@@ -1,0 +1,46 @@
+.centered {
+  margin: 3rem auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.focused {
+  font-size: 3rem;
+  font-weight: bold;
+  color: white;
+}
+
+.btn {
+  text-decoration: none;
+  background-color: $clr1;
+  color: white;
+  border-radius: 4px;
+  padding: 0.75rem 1.5rem;
+  border: 1px solid $clr1;
+  cursor: pointer;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: $clr5;
+  border-color: $clr5;
+}
+
+.btn--flat {
+  cursor: pointer;
+  font: inherit;
+  color: $clr1;
+  border: none;
+  background-color: none;
+  text-decoration: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+}
+
+.btn--flat:hover,
+.btn--flat:active {
+  background-color: $clr1;
+  color: white;
+}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GreatQuotes/static/css/main.bc6aad1d.css",
+    "main.js": "/GreatQuotes/static/js/main.438254f8.js",
+    "static/js/391.a3fcbfb2.chunk.js": "/GreatQuotes/static/js/391.a3fcbfb2.chunk.js",
+    "index.html": "/GreatQuotes/index.html",
+    "main.bc6aad1d.css.map": "/GreatQuotes/static/css/main.bc6aad1d.css.map",
+    "main.438254f8.js.map": "/GreatQuotes/static/js/main.438254f8.js.map",
+    "391.a3fcbfb2.chunk.js.map": "/GreatQuotes/static/js/391.a3fcbfb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc6aad1d.css",
+    "static/js/main.438254f8.js"
+  ]
+}
